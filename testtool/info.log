@@ -1,0 +1,39 @@
+2016-09-07 15:05:06 - ...
+2016-09-07 15:05:06 - Info Logger started.
+2016-09-07 15:05:06 - Error Logger started.
+2016-09-07 15:05:06 - csv file windows_10_x64.csv found.
+2016-09-07 15:05:06 - csv file windows_10_x86.csv found.
+2016-09-07 15:05:06 - csv file windows_7_x64.csv found.
+2016-09-07 15:05:06 - csv file windows_7_x86.csv found.
+2016-09-07 15:05:06 - csv file windows_8_x64.csv found.
+2016-09-07 15:05:06 - csv file windows_8_x86.csv found.
+2016-09-07 15:05:06 - csv file _windows_10_x64_invalidRun.csv found.
+2016-09-07 15:05:06 - csv file _windows_10_x64_noCases.csv found.
+2016-09-07 15:05:06 - csv file _windows_10_x64_noStatus.csv found.
+2016-09-07 15:05:06 - csv file _windows_7_x86_missingFields.csv found.
+2016-09-07 15:05:06 - csv file _windows_8.1_x64_empty.csv found.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\windows_10_x64.csv.
+2016-09-07 15:05:06 - Import execution from D:\development\testtool\target\windows_10_x64.csv successful
+                        2 tests to be run, 0 to be skipped, on Windows10 x64.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\windows_10_x86.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\windows_7_x64.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\windows_7_x86.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\windows_8_x64.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\windows_8_x86.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\_windows_10_x64_invalidRun.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\_windows_10_x64_noCases.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\_windows_10_x64_noStatus.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\_windows_7_x86_missingFields.csv.
+2016-09-07 15:05:06 - Attempting to read setup from: D:\development\testtool\target\_windows_8.1_x64_empty.csv.
+2016-09-07 15:05:06 - ...
+2016-09-07 15:05:06 - Running execution: windows_10_x64 on Windows 10 x64.
+2016-09-07 15:05:06 - T1 PASSED.
+2016-09-07 15:05:07 - T2 FAILED, reason: Failed to find: "iagree".
+2016-09-07 15:05:07 - Finished running execution windows_10_x64
+                        2 tests run: 1 set to PASSED, 1 set to FAILED.
+2016-10-12 15:31:10 - ...
+2016-10-12 15:31:10 - Info Logger started.
+2016-10-12 15:31:10 - Error Logger started.
+2016-10-12 15:31:48 - ...
+2016-10-12 15:31:48 - Info Logger started.
+2016-10-12 15:31:48 - Error Logger started.
